@@ -15,7 +15,7 @@ const projects = [
     title: "Shadab's Pokédex",
     description:
       "A responsive and interactive Pokédex built with React.js, showcasing the original 151 Pokémon using the PokeAPI. Search, explore moves, and view stats with a clean modern UI.",
-    image: "/projects/project2.png",
+    image: "/projects/pokedex.png",
     tags: ["HTML","CSS","ReactJS"],
     demoUrl: "https://shadabspokedex.netlify.app/",
     // githubUrl: "#",
