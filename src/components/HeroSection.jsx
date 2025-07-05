@@ -22,7 +22,7 @@ export const HeroSection = () => {
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
             I craft dynamic and efficient web solutions using a versatile tech stack.
-            Skilled in HTML, CSS, and JavaScript for seamless front-end experiences,
+            Skilled in HTML, CSS, and ReactJS for seamless front-end experiences,
             and proficient in backend and database management with PHP, SQL.
             building websites and applications that are both powerful and reliable.
           </p>
