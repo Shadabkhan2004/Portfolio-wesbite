@@ -16,18 +16,18 @@ const projects = [
     description:
       "A responsive and interactive Pokédex built with React.js, showcasing the original 151 Pokémon using the PokeAPI. Search, explore moves, and view stats with a clean modern UI.",
     image: "/projects/pokedex.png",
-    tags: ["HTML","CSS","ReactJS"],
+    tags: ["HTML","FantaCSS","ReactJS"],
     demoUrl: "https://shadabspokedex.netlify.app/",
     // githubUrl: "#",
   },
   {
     id: 3,
-    title: "Jarvis",
+    title: "TrackYourCoffee",
     description:
-      "A Jarvis-Assistant which does certain tasks based on our speech.",
-    image: "/projects/project3.png",
-    tags: ["Python"],
-    // demoUrl: "#",
+      "TrackYourCoffee is a fun and intuitive web app that helps users log and analyze their daily coffee intake.",
+    image: "/projects/TrackYourCoffee.png",
+    tags: ["React.JS","FantaCSS","Firebase"],
+    demoUrl: "https://trackyourcoffee.netlify.app/",
     // githubUrl: "#",
   },
 ];
