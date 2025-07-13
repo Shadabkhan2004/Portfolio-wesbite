@@ -16,16 +16,17 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-  I enjoy building things that live on the web — from simple interfaces to more dynamic, data-driven applications. What started as curiosity quickly turned into a passion for crafting responsive, user-centered experiences.
+  I love building things for the web — from clean, responsive interfaces to interactive, data-powered apps. What started as a hobby quickly grew into a serious passion for web development.
 </p>
 
 <p className="text-muted-foreground">
-  I'm focused on sharpening my front-end skills with React.js while expanding into back-end development using Node.js, Express, and MongoDB. My goal is to become a full-stack developer capable of building complete, scalable applications from scratch.
+  I'm currently focused on React.js for the front end and expanding into the back end with Node.js, Express, and MongoDB to grow as a full-stack developer.
 </p>
 
 <p className="text-muted-foreground">
-  I believe in learning by doing, and I’m constantly experimenting with new ideas, tools, and technologies to grow as a developer. Clean code, thoughtful design, and continuous improvement are at the core of how I approach every project.
+  I believe in learning by building, writing clean code, and constantly improving through hands-on experience.
 </p>
+
 
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
