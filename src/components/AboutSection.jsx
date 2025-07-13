@@ -16,17 +16,17 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 1 year of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
-            </p>
+  I enjoy building things that live on the web — from simple interfaces to more dynamic, data-driven applications. What started as curiosity quickly turned into a passion for crafting responsive, user-centered experiences.
+</p>
 
-            <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
-            </p>
+<p className="text-muted-foreground">
+  I'm focused on sharpening my front-end skills with React.js while expanding into back-end development using Node.js, Express, and MongoDB. My goal is to become a full-stack developer capable of building complete, scalable applications from scratch.
+</p>
+
+<p className="text-muted-foreground">
+  I believe in learning by doing, and I’m constantly experimenting with new ideas, tools, and technologies to grow as a developer. Clean code, thoughtful design, and continuous improvement are at the core of how I approach every project.
+</p>
+
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a href="#contact" className="cosmic-button">
