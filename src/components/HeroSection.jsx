@@ -21,10 +21,8 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I craft dynamic and efficient web solutions using a versatile tech stack.
-            Skilled in HTML, CSS, and ReactJS for seamless front-end experiences,
-            and proficient in backend and database management with PHP, SQL.
-            building websites and applications that are both powerful and reliable.
+            I’m a Computer Science undergraduate passionate about building modern, responsive web applications. I specialize in front-end development using HTML, CSS, JavaScript, and React.js, and I’m currently expanding into the back end with Node.js, Express.js, and MongoDB.
+            I aim to create web solutions that are not only functional and efficient but also user-friendly and scalable. I enjoy turning ideas into interactive interfaces and learning new technologies to become a well-rounded full-stack developer.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
